@@ -87,6 +87,8 @@ The dashboard provides dynamic KPI calculations based on the selected filters.
 | Historical Churn Rate  |       70.40% |
 | Average MRR / Customer |      $22,677 |
 
+<img width="953" height="319" alt="image" src="https://github.com/user-attachments/assets/6071bda3-fb7a-4dde-acb2-b0ab81805048" />
+
 ---
 
 ## Dashboard Features
@@ -100,6 +102,9 @@ Provides a high-level view of:
 * Historical churn by segment
 * Revenue contribution by industry
 
+* <img width="953" height="401" alt="image" src="https://github.com/user-attachments/assets/723c8fc3-bc02-4cd4-8a25-1b1c7e0f1680" />
+
+
 ### 2. Customer & Revenue Analysis
 
 Analyzes:
@@ -108,6 +113,9 @@ Analyzes:
 * Customer distribution by plan
 * Customer acquisition/referral sources
 * Customer distribution by industry
+
+* <img width="944" height="394" alt="image" src="https://github.com/user-attachments/assets/d94db8df-3053-4e9b-97b2-2726a52ac3f5" />
+
 
 ### 3. Product Analytics
 
@@ -119,6 +127,9 @@ Analyzes:
 * Error levels
 * Feature adoption vs. historical churn
 
+* <img width="941" height="398" alt="image" src="https://github.com/user-attachments/assets/5becf3da-5061-4d6e-8e7d-2bd828e17e4d" />
+
+
 ### 4. Churn Analytics
 
 Examines:
@@ -127,6 +138,8 @@ Examines:
 * Historical churn by feature adoption level
 
 > Historical churn analysis describes previously observed churn events and associations in the dataset. It is not intended as a predictive churn model.
+
+<img width="937" height="221" alt="image" src="https://github.com/user-attachments/assets/b62cf1df-eeea-427e-b212-7a0a91ef2bfb" />
 
 ### 5. Support & Customer Experience
 
@@ -139,6 +152,8 @@ Analyzes:
 A data-quality warning is included because some support-related metrics contain inconsistencies in the source data.
 
 ---
+<img width="926" height="389" alt="image" src="https://github.com/user-attachments/assets/396e9304-5e2b-4de8-847a-922ed292a2d8" />
+
 
 ## Interactive Dashboard
 
@@ -155,6 +170,9 @@ The Streamlit dashboard includes:
 * Business insight cards
 
 All dashboard charts and KPIs respond to the selected filters.
+
+<img width="272" height="407" alt="image" src="https://github.com/user-attachments/assets/238744d7-2eaa-4ea6-acf7-6375fcda1ae1" />
+
 
 ---
 
@@ -182,6 +200,8 @@ Rather than silently modifying these values, the dashboard explicitly flags the 
 * Plan distribution
 * Industry distribution
 * Referral source analysis
+  
+<img width="702" height="283" alt="image" src="https://github.com/user-attachments/assets/6faaba84-4ac3-4f9e-95d5-a15e64eda7bf" />
 
 ### Product Analytics
 
@@ -191,6 +211,9 @@ Rather than silently modifying these values, the dashboard explicitly flags the 
 * Error levels
 * Customer engagement
 
+<img width="403" height="154" alt="image" src="https://github.com/user-attachments/assets/6c293a43-0389-4454-915f-4d942cecb307" />
+
+
 ### Churn Analytics
 
 * Historical churn rate
@@ -198,12 +221,16 @@ Rather than silently modifying these values, the dashboard explicitly flags the 
 * Churn by feature adoption
 * Churn by usage level
 
+<img width="915" height="244" alt="image" src="https://github.com/user-attachments/assets/41eb6c08-6a95-44ec-8cc1-35a0d44bfdd6" />
+
 ### Support Analytics
 
 * Support volume
 * First response time
 * Resolution time
 * Customer support experience
+  
+<img width="455" height="268" alt="image" src="https://github.com/user-attachments/assets/0d48d983-c4a5-4506-a8e0-9352b2bee76e" />
 
 ---
 
