@@ -102,7 +102,7 @@ Provides a high-level view of:
 * Historical churn by segment
 * Revenue contribution by industry
 
-* <img width="953" height="401" alt="image" src="https://github.com/user-attachments/assets/723c8fc3-bc02-4cd4-8a25-1b1c7e0f1680" />
+<img width="909" height="342" alt="image" src="https://github.com/user-attachments/assets/ba50b7bd-299c-4e83-a0f7-d9e7e8291084" />
 
 
 ### 2. Customer & Revenue Analysis
@@ -114,7 +114,7 @@ Analyzes:
 * Customer acquisition/referral sources
 * Customer distribution by industry
 
-* <img width="944" height="394" alt="image" src="https://github.com/user-attachments/assets/d94db8df-3053-4e9b-97b2-2726a52ac3f5" />
+<img width="890" height="332" alt="image" src="https://github.com/user-attachments/assets/28ab494b-c12c-4c51-a465-2071b72ea32c" />
 
 
 ### 3. Product Analytics
@@ -127,7 +127,7 @@ Analyzes:
 * Error levels
 * Feature adoption vs. historical churn
 
-* <img width="941" height="398" alt="image" src="https://github.com/user-attachments/assets/5becf3da-5061-4d6e-8e7d-2bd828e17e4d" />
+<img width="870" height="338" alt="image" src="https://github.com/user-attachments/assets/eec38d0d-d023-42f7-b58b-e86b4b6e7bb6" />
 
 
 ### 4. Churn Analytics
@@ -139,7 +139,8 @@ Examines:
 
 > Historical churn analysis describes previously observed churn events and associations in the dataset. It is not intended as a predictive churn model.
 
-<img width="937" height="221" alt="image" src="https://github.com/user-attachments/assets/b62cf1df-eeea-427e-b212-7a0a91ef2bfb" />
+<img width="897" height="334" alt="image" src="https://github.com/user-attachments/assets/ff5136c4-ac31-4af1-9aa9-0ed81eef8794" />
+
 
 ### 5. Support & Customer Experience
 
@@ -151,8 +152,9 @@ Analyzes:
 
 A data-quality warning is included because some support-related metrics contain inconsistencies in the source data.
 
+<img width="893" height="380" alt="image" src="https://github.com/user-attachments/assets/cc717c2c-bbfd-471e-a551-ddbf1a85780b" />
+
 ---
-<img width="926" height="389" alt="image" src="https://github.com/user-attachments/assets/396e9304-5e2b-4de8-847a-922ed292a2d8" />
 
 
 ## Interactive Dashboard
